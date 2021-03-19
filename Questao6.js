@@ -4,4 +4,5 @@ function contrario(nomes_s){
     nomes.reverse();
     return nomes;
 }
+
 console.log(contrario(nomes));
