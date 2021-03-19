@@ -1,0 +1,11 @@
+let estilosMusicais = ["Rock","Pagode"];
+console.log(estilosMusicais);
+estilosMusicais.push("Funk");
+console.log(estilosMusicais);
+estilosMusicais[1] = "Axe";
+console.log(estilosMusicais);
+console.log(estilosMusicais.shift());
+console.log(estilosMusicais);
+estilosMusicais.unshift("Rap");
+estilosMusicais.unshift("Reggae");
+console.log(estilosMusicais);
