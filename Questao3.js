@@ -6,4 +6,5 @@ function quadrado(num){
         console.log(quad);
     }
 }
+
 quadrado(num);
